@@ -1,0 +1,15 @@
+.imageSelected {
+	border: 4px solid #1a242f !important;
+	padding: 5px 5px 5px 5px !important;
+	transition: all 2.0;
+}
+
+.imageUnselected {
+	padding: 9px 9px 9px 9px !important;
+}
+
+@media(min-width: 750px) {
+	.largeModal {
+		width: 60% !important;
+	}
+}

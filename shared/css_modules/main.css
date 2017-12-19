@@ -1,0 +1,18 @@
+/* Use camelCase */
+
+.unround_a_bitch {
+	border-radius: 0px !important;
+}
+
+.button_space {
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+.paddDatBitch {
+	padding: 15px 15px 15px 15px !important;
+}
+
+.hideElement {
+	display: none;
+}

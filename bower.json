@@ -1,0 +1,22 @@
+{
+  "name": "SirMixalot",
+  "description": "Drink Mixer Extraordinaire",
+  "main": "index.js",
+  "authors": [
+    "My Main Mang"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.3",
+    "bootstrap": "^3.3.6",
+    "font-awesome": "fontawesome#^4.6.1"
+  }
+}

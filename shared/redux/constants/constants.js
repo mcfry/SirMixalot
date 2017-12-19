@@ -1,0 +1,13 @@
+// Drinks
+export const ADD_DRINK = 'ADD_DRINK';
+export const CHANGE_SELECTED_DRINK = 'CHANGE_SELECTED_DRINK';
+export const ADD_DRINK_REQUEST = 'ADD_DRINK_REQUEST';
+export const ADD_DRINKS = 'ADD_DRINKS';
+export const ADD_SELECTED_DRINK = 'ADD_SELECTED_DRINK';
+export const DELETE_DRINK = 'DELETE_DRINK';
+
+// DrinkMixes
+export const ADD_DRINK_MIX = 'ADD_DRINK_MIX';
+export const ADD_DRINK_MIXES = 'ADD_DRINK_MIXES';
+export const ADD_SELECTED_DRINK_MIX = 'ADD_SELECTED_DRINK_MIX';
+export const DELETE_DRINK_MIX = 'DELETE_DRINK_MIX';
